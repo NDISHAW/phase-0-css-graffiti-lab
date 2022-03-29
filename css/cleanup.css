@@ -21,3 +21,20 @@ body div#wall div.parent div > #tag-7.slick {
 div#wall div.parent div:last-child div#tag-6 {
     display: none;
 }
+
+body{
+    display:none
+}
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7{
+    display: none;
+}
+#tag2{
+    display: none;
+}
+
+#wall #tag-4 {
+    display: none;
+}
+div{
+    display: none;
+}
